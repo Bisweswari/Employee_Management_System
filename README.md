@@ -1,4 +1,5 @@
 # Employee Management System | Spring Boot + React JS
+Full-Stack Employee Management System using Spring Boot and React JS with CRUD functionality.
 
 ## Overview
 This project is a **Full-Stack Employee Management System** built using **Spring Boot** for the backend and **React JS** for the frontend. It allows users to **create, view, update, and delete employee records** efficiently. The system connects to a **MySQL database** to store employee data.
